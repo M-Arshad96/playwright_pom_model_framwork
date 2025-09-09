@@ -7,7 +7,7 @@ This project provides a clean structure for writing, organizing, and executing a
 ⚡ Installation
 Clone this repository:
 
-git clone [https://github.com/yourusername/PlayWright_POM_Automation.git](https://github.com/yourusername/PlayWright_POM_Automation.git)
+git clone [https://github.com/M-Arshad96/PlayWright_POM_Automation.git](https://github.com/yourusername/PlayWright_POM_Automation.git)
 cd PlayWright_POM_Automation
 
 Install dependencies:
