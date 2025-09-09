@@ -3,21 +3,6 @@ A Page Object Model (POM) based test automation framework built using Playwright
 
 This project provides a clean structure for writing, organizing, and executing automated tests with support for reporting and configuration management.
 
-📂 Project Structure
-PlayWright_POM_Automation/
-├── Pages/                      # Page Object Model classes
-│   ├── HomePage.js
-│   ├── RegisterPage.js
-│   └── TransactionPage.js
-├── tests/                      # Test files
-│   ├── example.spec.js
-│   └── RegisterDemo.spec.js
-├── playwright-report/          # Generated HTML reports
-├── test-results/               # Raw execution results
-├── playwright.config.js        # Playwright test configuration
-├── package.json                # Node.js dependencies and scripts
-├── package-lock.json
-└── .gitignore
 
 ⚡ Installation
 Clone this repository:
